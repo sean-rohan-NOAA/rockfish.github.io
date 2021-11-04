@@ -1,6 +1,6 @@
-# Rockfish Videos
+# Rockfish ROV Videos
 
-## ROV Videos
+## Instructions
 
 Open your assigned video set, watch the videos, and fill out your data collection worksheet.
 
