@@ -47,4 +47,8 @@ png(paste0("./plots/", class_name, "_", "population_histogram.png"), width = 6, 
 print(rockfish_histogram)
 dev.off()
 
+png(paste0("./plots/results.png"), width = 6, height = 6, units = "in", res = 300)
+print(rockfish_histogram)
+dev.off()
+
   
