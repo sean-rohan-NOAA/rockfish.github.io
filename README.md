@@ -11,4 +11,4 @@ Open your assigned video set, watch the videos, and fill out your data collectio
 
 # Results
 
-* [Period 2](./results.md)
+* [Results](./results.md)
