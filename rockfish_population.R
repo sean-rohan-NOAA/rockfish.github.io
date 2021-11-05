@@ -2,7 +2,7 @@
 library(ggplot2)
 
 # Class
-class_name <- "Denny_Period3"
+class_name <- "Denny_Period4"
 
 # Area swept in video
 area_swept_km2 <- 0.00025
