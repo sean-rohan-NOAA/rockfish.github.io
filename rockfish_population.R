@@ -2,7 +2,7 @@
 library(ggplot2)
 
 # Class
-class_name <- "Denny_Period1"
+class_name <- "Denny_Period2"
 
 # Area swept in video
 area_swept_km2 <- 0.00025
@@ -43,7 +43,7 @@ rockfish_histogram <- ggplot(data = subset(rockfish_data, population < 15000000)
   theme(axis.text = element_text(size = 18),
         axis.title = element_text(size = 18))
 
-png(paste0("./plots/", class_name, "_", "population_histogram.png", width = 6, height = 6, units = "in", res = 300))
+png(paste0("./plots/", class_name, "_", "population_histogram.png"), width = 6, height = 6, units = "in", res = 300)
 print(rockfish_histogram)
 dev.off()
 
